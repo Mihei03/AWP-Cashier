@@ -1,0 +1,3 @@
+0: Сливы Price: 123 Count: 0,789кг AllSum: 97,05
+All Sum: 97,05
+Was paid by card

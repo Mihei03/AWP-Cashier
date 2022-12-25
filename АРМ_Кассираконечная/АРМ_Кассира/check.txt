@@ -1,0 +1,3 @@
+0 0 0 Crisp 109 2 218
+1 1 1 Ice cream 83 6 498
+All Sum: 716
