@@ -62,6 +62,7 @@ namespace АРМ_Кассира.Presenters
                 if (Amm <= 0)
                 {
                     MessageBox.Show("Неверное число товаров");
+                    return;
                 }
             }
             else
@@ -81,6 +82,11 @@ namespace АРМ_Кассира.Presenters
             if (Int32.TryParse(ExpDate.Text, out int resualt))
             {
                 expDate = resualt;
+                if (expDate <= 0)
+                {
+                    MessageBox.Show("Неверный срок годности");
+                    return;
+                }
             }
             else
             {
@@ -405,7 +411,7 @@ namespace АРМ_Кассира.Presenters
             MaxTime.Visible = !MaxTime.Visible;
             ChangeBut.Visible = !ChangeBut.Visible;
             MinTime.Clear();
-            MaxTime.Clear();;
+            MaxTime.Clear();
         }
     }
 }

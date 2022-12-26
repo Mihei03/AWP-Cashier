@@ -74,7 +74,7 @@ namespace АРМ_Кассира.Presenters
             }
             else
             {
-                _mainForm.AllSum = ChangePriceForPens(ListView1); 
+                _mainForm.AllSum = StandartPrice(ListView1); 
                 _mainForm.Products = _products;
             }
         }

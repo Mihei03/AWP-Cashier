@@ -47,7 +47,6 @@ C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассир
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\bin\Debug\АРМ_Кассира.pdb
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\bin\Debug\Newtonsoft.Json.dll
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\bin\Debug\Newtonsoft.Json.xml
-C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.csprojAssemblyReference.cache
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.AdminForm.resources
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.AllProductsForm.resources
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.DelItem.resources
@@ -61,3 +60,4 @@ C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассир
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.csproj.CopyComplete
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.exe
 C:\Users\user\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.pdb
+C:\Users\User\Desktop\курсовая\АРМ_Кассира\АРМ_Кассира\obj\Debug\АРМ_Кассира.csproj.AssemblyReference.cache
