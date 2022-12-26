@@ -1,0 +1,4 @@
+0: Карачинская Price: 15 Count: 1 AllSum: 15
+All Sum: 15
+Change: 5
+Was paid by cash

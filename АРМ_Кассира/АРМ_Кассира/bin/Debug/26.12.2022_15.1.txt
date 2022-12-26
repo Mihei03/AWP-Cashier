@@ -1,0 +1,6 @@
+26.12.2022 15:01:34
+1: Карачинская Price: 15 Count: 3 AllSum: 45
+1: Апельсин Price: 100 Count: 0,45кг AllSum: 45
+All Sum: 90
+Change: 10
+Was paid by cash

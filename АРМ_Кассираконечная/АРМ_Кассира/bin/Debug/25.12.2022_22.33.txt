@@ -1,5 +1,0 @@
-25.12.2022 22:33:07
-0: Карачинская Price: 15 Count: 14 AllSum: 210
-All Sum: 210
-Change: 90
-Was paid by cash

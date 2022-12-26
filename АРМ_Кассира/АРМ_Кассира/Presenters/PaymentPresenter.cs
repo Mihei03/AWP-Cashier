@@ -47,7 +47,7 @@ namespace АРМ_Кассира.Presenters
 
         private void Payment_ChangeCountClick(TextBox CashText, TextBox SumText, TextBox ChangeText, Button CountChange, Button EndOp)
         {
-            if (CashText.Text != "" && SumText.Text != "")
+            if (CashText.Text != "" && SumText.Text != " ")
             {
                 int Cash;
                 if (Int32.TryParse(CashText.Text, out int res))
